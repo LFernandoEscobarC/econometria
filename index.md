@@ -15,8 +15,6 @@ title: Temario
     <p style="font-size:.95rem; line-height:1.75; color:#2b2e34;">
       Este sitio reúne el material de la materia de Econometría: presentaciones, guías
       de práctica y ejercicios en clases.
-      Los archivos de datos y presentaciones se agregan en la carpeta
-      <code>materiales/</code> del repositorio.
     </p>
     <p style="margin-top:14px;">
       <a class="card" style="display:inline-block; padding:12px 18px;"
