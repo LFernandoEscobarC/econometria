@@ -19,7 +19,7 @@ title: Temario
     <p style="margin-top:14px;">
       <a class="card" style="display:inline-block; padding:12px 18px;"
          href="https://github.com/LFernandoEscobarC/econometria/archive/refs/heads/main.zip">
-         ⬇ Descargar todo el material (.zip)
+         ⬇ Programa analítico 
       </a>
     </p>
   </section>
@@ -27,21 +27,21 @@ title: Temario
   <div class="axis-title">Eje 1 · Fundamentos de regresión</div>
   <ul class="class-list">
     <li class="class-item">
-      <div class="cnum">Clase 1</div>
+      <div class="cnum">Unidad 1</div>
       <h3>Introducción a la econometría</h3>
       <div class="mat-links">
-        <a href="{{ '/clases/clase-1/' | relative_url }}">Explicación</a>
+        <a href="{{ '/clases/clase-1/' | relative_url }}">Pesentación</a>
         <a href="{{ '/clases/clase-1/#practica-guiada' | relative_url }}">Práctica guiada</a>
-        <a href="{{ '/clases/clase-1/#practica-independiente' | relative_url }}">Práctica independiente</a>
+        <a href="{{ '/clases/clase-1/#practica-independiente' | relative_url }}">Prácticos</a>
       </div>
     </li>
     <li class="class-item">
       <div class="cnum">Clase 2</div>
       <h3>Regresión lineal simple: MCO y supuestos clásicos</h3>
       <div class="mat-links">
-        <a href="{{ '/clases/clase-2/' | relative_url }}">Explicación</a>
+        <a href="{{ '/clases/clase-2/' | relative_url }}">Pesentación</a>
         <a href="{{ '/clases/clase-2/#practica-guiada' | relative_url }}">Práctica guiada</a>
-        <a href="{{ '/clases/clase-2/#practica-independiente' | relative_url }}">Práctica independiente</a>
+        <a href="{{ '/clases/clase-2/#practica-independiente' | relative_url }}">Prácticos</a>
       </div>
     </li>
 
