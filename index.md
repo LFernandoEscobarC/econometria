@@ -22,13 +22,14 @@ title: Temario
          ⬇ Programa analítico 
       </a>
     </p>
-    <div class="card">
+  </section>
+
+  <div class="card">
       <h4>Econometría, Libro de Damodar N. Gujarati y Dawn C. Porter</h4>
       <p>Libro de texto de Econometría, 5ta edición, por Gujarati y Porter. Cubre análisis de regresión, modelos no lineales, datos de panel y series de tiempo.</p>
       <a class="link" href="https://files.uagrm.edu.bo/entidad/161/file/indexed/Ecomod/An%C3%A1lisis%20econom%C3%A9trico%20con%20Eviews%209/Econometria-Damodar-N-Gujarati-5ta%20Ed.pdf">Ver libro →</a>
     </div>
-  </section>
-
+    
   <div class="axis-title">Eje 1 · Fundamentos de regresión</div>
   <ul class="class-list">
     <li class="class-item">
