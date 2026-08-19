@@ -13,7 +13,7 @@ title: Temario
 <main>
   <section style="max-width:760px; margin:0 auto 30px;">
     <p style="font-size:.95rem; line-height:1.75; color:#2b2e34;">
-      Este sitio reúne el material de la materia de Econometría: presentaciones, guías
+      Este sitio reúne el material de la asignatura de Econometría: presentaciones, guías
       de práctica y ejercicios en clases.
     </p>
     <p style="margin-top:14px;">
