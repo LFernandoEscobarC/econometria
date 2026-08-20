@@ -36,7 +36,7 @@ title: Temario
       <div class="cnum">Unidad 1</div>
       <h3>Introducción a la econometría</h3>
       <div class="mat-links">
-        <a href="https://github.com/Lufesc/Eco360SII26/blob/main/Contenido/01-intro/01-intro.html">Pesentación</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/01-intro/01-intro.html">Pesentación</a>
         <a href="{{ '/clases/clase-1/#practica-guiada' | relative_url }}">Práctica guiada</a>
         <a href="{{ '/clases/clase-1/#practica-independiente' | relative_url }}">Prácticos</a>
       </div>
