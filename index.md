@@ -18,7 +18,7 @@ title: Temario
     </p>
     <p style="margin-top:14px;">
       <a class="card" style="display:inline-block; padding:12px 18px;"
-         href="https://github.com/Lufesc/Eco360SII26/blob/d8fa7c337d0f4c52369a42a9ae5ec3dc419e4e23/Syllabus/Programa_Econometria_II2026.pdf">
+         href="https://raw.githack.com/Lufesc/Eco360SII26/main/Syllabus/Programa_Econometria_II2026.pdf">
          ⬇ Programa analítico 
       </a>
     </p>
@@ -27,7 +27,7 @@ title: Temario
   <div class="card">
       <h4>Material bibliográfico</h4>
       <p>Libros de texto de Econometría. Cubren el contenido analítico de esta asignatura.</p>
-      <a class="link" href="https://github.com/Lufesc/Eco360SII26/blob/cb725da5e2cbb564e7276ca1b6a5583d4173cf50/Material%20bibliogr%C3%A1fico.zip">Descargar material →</a>
+      <a class="link" href="https://raw.githack.com/Lufesc/Eco360SII26/main/Material%20bibliogr%C3%A1fico.zip">Descargar material →</a>
     </div>
     
   <div class="axis-title">Eje 1 · Fundamentos de regresión</div>
