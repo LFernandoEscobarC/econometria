@@ -46,7 +46,7 @@ title: Temario
       <div class="cnum">Unidad 1</div>
       <h3>Regresión lineal simple: MCO y supuestos clásicos</h3>
       <div class="mat-links">
-        <a href="https://raw.githubusercontent.com/Lufesc/Eco360SII26/refs/heads/main/Contenido/02-ols/02-ols.html">Pesentación</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/02-ols/02-ols.html">Pesentación</a>
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/02-ols/02-ols.pdf">(PDF)</a>
         <a href="">Práctica guiada</a>
         <a href="">Prácticos</a>
