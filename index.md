@@ -38,8 +38,8 @@ title: Temario
       <div class="mat-links">
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/01-intro/01-intro.html">Pesentación</a>
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/01-intro/01-intro.pdf">(PDF)</a>
-        <a href="">Práctica guiada</a>
-        <a href="">Prácticos</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/Practicas/clase1/Datos_peso_y_estatura.xlsx">Datos de práctica guiada</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/Practicas/clase1/Clase1.R">Script práctica guiada</a>
       </div>
     </li>
     <li class="class-item">
@@ -48,8 +48,8 @@ title: Temario
       <div class="mat-links">
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/02-ols/02-ols.html">Pesentación</a>
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/02-ols/02-ols.pdf">(PDF)</a>
-        <a href="">Práctica guiada</a>
-        <a href="">Prácticos</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/Practicas/Talleres/Ejercicio4_Taller.xlsx">Resolución E4 Taller</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/Practicas/TP/P1.pdf">Práctico individual</a>
       </div>
     </li>
 
