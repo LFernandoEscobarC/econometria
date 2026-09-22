@@ -50,6 +50,8 @@ title: Temario
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/02-ols/02-ols.pdf">(PDF)</a>
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/Talleres/Ejercicio4_Taller.xlsx">Resolución E4 Taller</a>
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/TP/P1.pdf">Trabajo práctico</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/Practica1a.R">Script práctica 1 a</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/Practica1b.R">Script práctica 1 b</a> 
       </div>
     </li>
 
