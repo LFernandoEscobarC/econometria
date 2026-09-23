@@ -62,6 +62,9 @@ title: Temario
         <div class="mat-links">
           <a class="link" href="https://r-charts.com/es/">R Charts</a>
         </div>
+          <div class="mat-links">
+          <a class="link" href="https://r-graph-gallery.com/">The R Graph Gallery</a>
+        </div>
         <div class="mat-links">
           <a class="link" href="https://opensource.posit.co/resources/cheatsheets/">Cheat sheet</a>
         </div>
