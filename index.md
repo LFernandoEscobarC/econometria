@@ -40,6 +40,35 @@ title: Temario
       <a class="link" href="https://otexts.com/fpp3/">Hyndman & Athanasopoulos. Forecasting: Principles and Practice (recurso abierto)</a>
       </div>
     </div>
+
+<div class="card">
+      <h4>Recursos o materiales adicionales</h4>
+      <p>Material complementario para el curso.</p>
+        <div class="mat-links">
+          <a class="link" href="https://www.r-project.org/">Instalador de R</a>
+          </div>
+        <div class="mat-links">
+          <a class="link" href="https://www.rstudio.com/products/rstudio/download/preview/">Instalador de RStudio</a>
+          </div>
+        <div class="mat-links">
+          <a class="link" href="https://posit.cloud/">Posit cloud</a>
+        </div>
+        <div class="mat-links">
+          <a class="link" href="https://www.rdocumentation.org/">Documentación de R</a>
+        </div>
+        <div class="mat-links">
+          <a class="link" href="https://r-coder.com/inicio/">Programación en R</a>
+        </div>
+        <div class="mat-links">
+          <a class="link" href="https://opensource.posit.co/resources/cheatsheets/">Cheat sheet</a>
+        </div>
+        <div class="mat-links">
+          <a class="link" href="https://rstudio.github.io/cheatsheets/translations/spanish/base-r_es.pdf">Cheat sheet (R base)</a>
+        </div>
+        <div class="mat-links">
+          <a class="link" href="https://rstudio.github.io/cheatsheets/translations.html#spanish">Cheat sheet (hoja de trucos)</a>
+        </div>
+  </div>
     
   <div class="axis-title">Eje 1 · Fundamentos de regresión</div>
   <ul class="class-list">
