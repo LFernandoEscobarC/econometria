@@ -28,11 +28,16 @@ title: Temario
       <h4>Material bibliográfico</h4>
     <div class="mat-links">
       <p>Libros de Econometría. Cubren el contenido analítico de esta asignatura.</p>
-      <a class="link" href="https://raw.githack.com/Lufesc/Eco360SII26/main/Material%20bibliogr%C3%A1fico.zip">Descargar material →</a>
+      <a class="link" href="https://raw.githack.com/Lufesc/Eco360SII26/main/Material%20bibliogr%C3%A1fico.zip">Descargar libros</a>
       </div>
     <div class="mat-links">
-      <p>Libros de Econometría. Cubren el contenido analítico de esta asignatura.</p>
       <a class="link" href="https://bookdown.org/jboscomendoza/r-principiantes4/">Mendoza. R para principiantes (recurso abierto)</a>
+      </div>
+    <div class="mat-links">
+      <a class="link" href="https://www.econometrics-with-r.org/index.html">Hanck, Arnold, Gerber & Schmelzer. Introduction to Econometrics with R (recurso abierto)</a>
+      </div>
+    <div class="mat-links">
+      <a class="link" href="https://otexts.com/fpp3/">Hyndman & Athanasopoulos. Forecasting: Principles and Practice (recurso abierto)</a>
       </div>
     </div>
     
