@@ -39,7 +39,7 @@ title: Temario
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/01-intro/01-intro.html">Pesentación</a>
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/01-intro/01-intro.pdf">(PDF)</a>
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/clase1/Datos_peso_y_estatura.xlsx">Datos de práctica guiada</a>
-        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/clase1/Clase1.R">Script práctica guiada</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/clase1/Clase1.R">Práctica guiada (Script en R)</a>
       </div>
     </li>
     <li class="class-item">
@@ -50,8 +50,8 @@ title: Temario
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/02-ols/02-ols.pdf">(PDF)</a>
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/Talleres/Ejercicio4_Taller.xlsx">Resolución E4 Taller</a>
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/TP/P1.pdf">Trabajo práctico</a>
-        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/Practica1a.R">Script práctica 1 a</a>
-        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/Practica1b.R">Script práctica 1 b</a> 
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/Practica1a.R">Práctica 1 a (Script en R)</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/Practica1b.R">Práctica 1 b (Script en R)</a> 
       </div>
     </li>
 
