@@ -25,7 +25,7 @@ title: Temario
   </section>
 
 
-<li class="class-item">
+<li>
   <div>
       <h4>Material bibliográfico</h4></div>
     <p>Libros de Econometría. Cubren el contenido analítico de esta asignatura.</p>
