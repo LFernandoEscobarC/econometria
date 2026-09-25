@@ -26,6 +26,7 @@ title: Temario
 
 
 <li class="class-item">
+  <div class="card">
   <h4>Material bibliográfico</h4>
     <p>Libros de Econometría. Cubren el contenido analítico de esta asignatura.</p>
     <div class="mat-links">
@@ -40,7 +41,8 @@ title: Temario
     <div class="mat-links">
       <a href="https://otexts.com/fpp3/">Hyndman & Athanasopoulos. Forecasting: Principles and Practice (recurso abierto)</a>
       </div>
-    </li>
+    </div>
+</li>
 
 <div class="card">
       <h4>Recursos o materiales adicionales</h4>
