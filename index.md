@@ -25,9 +25,8 @@ title: Temario
   </section>
 
 
-<li>
-  <div>
-      <h4>Material bibliográfico</h4></div>
+<li class="class-item">
+  <div><h4>Material bibliográfico</h4></div>
     <p>Libros de Econometría. Cubren el contenido analítico de esta asignatura.</p>
     <div class="mat-links">
       <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Material%20bibliogr%C3%A1fico.zip">Descargar libros</a>
