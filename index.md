@@ -25,6 +25,7 @@ title: Temario
   </section>
 
 
+<li class="class-item">
   <div class="card">
       <h4>Material bibliográfico</h4></div>
     <div class="mat-links">
@@ -40,7 +41,7 @@ title: Temario
     <div class="mat-links">
       <a href="https://otexts.com/fpp3/">Hyndman & Athanasopoulos. Forecasting: Principles and Practice (recurso abierto)</a>
       </div>
-    </div>
+    </li>
 
 <div class="card">
       <h4>Recursos o materiales adicionales</h4>
