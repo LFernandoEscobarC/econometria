@@ -104,7 +104,7 @@ title: Temario
   <div class="card">
       <h4>Contenido de las sesiones prácticas grabadas de la asignatura</h4>
     <div class="cnum">
-      <a class="cnum" href="https://www.youtube.com/watch?v=LLaavoIbxaY">1ra sesión</a>
+      <a class="link" href="https://www.youtube.com/watch?v=LLaavoIbxaY">1ra sesión</a>
       </div>
     <div class="cnum">
       <a class="link" href="https://bookdown.org/jboscomendoza/r-principiantes4/">2da sesión</a>
