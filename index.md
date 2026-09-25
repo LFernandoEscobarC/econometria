@@ -77,6 +77,7 @@ title: Temario
           <a class="link" href="https://rstudio.github.io/cheatsheets/translations.html#spanish">Cheat sheet (hoja de trucos)</a>
         </div>
   </div>
+  </ul>
     
   <div class="axis-title">Eje 1 · Fundamentos de regresión</div>
   <ul class="class-list">
