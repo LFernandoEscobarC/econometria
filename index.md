@@ -109,7 +109,7 @@ title: Temario
     <div class="mat-links">
       <a  href="https://youtu.be/knpZ7KRF-DU">2da sesión (parte 1)</a>
       </div>
-    <div class="link">
+    <div class="mat-links">
       <a href="https://youtu.be/zcs3DD35Cyk">2da sesión (parte 2)</a>
       </div>
     </li>
