@@ -102,11 +102,11 @@ title: Temario
     </li>
 
   <div class="card">
-      <h4>Contenido de las sesiones prácticas grabadas de la asignatura</h4>
+      <h3>Contenido de las sesiones prácticas grabadas de la asignatura</h3>
     <div class="mat-links">
       <a href="https://www.youtube.com/watch?v=LLaavoIbxaY">1ra sesión</a>
       </div>
-    <div class="cnum">
+    <div>
       <a class="mat-links" href="https://youtu.be/knpZ7KRF-DU">2da sesión (parte 1)</a>
       </div>
     <div class="cnum">
