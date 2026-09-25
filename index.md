@@ -107,7 +107,7 @@ title: Temario
       <a class="link" href="https://www.youtube.com/watch?v=LLaavoIbxaY">1ra sesión</a>
       </div>
     <div class="cnum">
-      <a class="link" href="https://bookdown.org/jboscomendoza/r-principiantes4/">2da sesión</a>
+      <a class="link" href="https://youtu.be/knpZ7KRF-DU">2da sesión</a>
       </div>
     </div>
 
