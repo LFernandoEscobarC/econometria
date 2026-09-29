@@ -103,6 +103,14 @@ title: Temario
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/Practica1b.R">Práctica 1 b (Script en R)</a> 
       </div>
     </li>
+   <li class="class-item">
+      <div class="cnum">Unidad 2</div>
+      <h3>Extensiones del Modelo de Regresión Lineal</h3>
+      <div class="mat-links">
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/03-extensiones/03-extensiones.html">Pesentación</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/03-extensiones/03-extensiones.pdf">(PDF)</a> 
+      </div>
+    </li>
 
   <li class="class-item">
       <h3>Contenido de las sesiones prácticas grabadas de la asignatura</h3>
