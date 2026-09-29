@@ -107,8 +107,8 @@ title: Temario
       <div class="cnum">Unidad 2</div>
       <h3>Extensiones del Modelo de Regresión Lineal</h3>
       <div class="mat-links">
-        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/03-extensiones/03-extensiones.html">Pesentación</a>
-        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/03-extensiones/03-extensiones.pdf">(PDF)</a> 
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/03-extensiones/03-extensiones.html">Pesentación</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/03-extensiones/03-extensiones.pdf">(PDF)</a> 
       </div>
     </li>
 
