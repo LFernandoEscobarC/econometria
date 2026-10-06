@@ -109,6 +109,7 @@ title: Temario
       <div class="mat-links">
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/03-extensiones/03-extensiones.html">Pesentación</a>
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/03-extensiones/03-extensiones.pdf">(PDF)</a> 
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/Practica2.R">Práctica 2 (Script en R)</a>
       </div>
     </li>
 
