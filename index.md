@@ -76,6 +76,9 @@ title: Temario
         <div class="mat-links">
           <a class="link" href="https://rstudio.github.io/cheatsheets/translations.html#spanish">Cheat sheet (hoja de trucos)</a>
         </div>
+  <div class="mat-links">
+          <a class="link" href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/Gujarati5.rar">Dataset Gujarati</a> 
+        </div>
   </div>
   </ul>
     
