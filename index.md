@@ -115,6 +115,15 @@ title: Temario
         <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/Practica2.R">Práctica 2 (Script en R)</a>
       </div>
     </li>
+       <li class="class-item">
+      <div class="cnum">Unidad 3</div>
+      <h3>Modelo Clásico de Regresión Lineal Múltiple</h3>
+      <div class="mat-links">
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/04-mcrlm/04-mcrlm.html">Pesentación</a>
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Contenido/04-mcrlm/04-mcrlm.pdf">(PDF)</a> 
+        <a href="https://raw.githack.com/Lufesc/Eco360SII26/main/Practicas/TP/P2.pdf">Trabajo práctico</a>
+      </div>
+    </li>
 
   <li class="class-item">
       <h3>Contenido de las sesiones prácticas grabadas de la asignatura</h3>
